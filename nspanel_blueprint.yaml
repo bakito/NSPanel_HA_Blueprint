@@ -3,7 +3,7 @@
 #############################################################
 
 blueprint:
-  name: NSPanel Configuration
+  name: NSPanel Configuration 3.4.1
   description: >
     # Configuration and synchronization NSPanel via Blueprint
 
